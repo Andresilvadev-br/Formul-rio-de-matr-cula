@@ -48,6 +48,6 @@ label + .radio-wrapper {
 
     & .radio-image {
         background-image: url(/assets/icons/radio-checked.svg);
-        no-repeat;
+        
     }
 } }
