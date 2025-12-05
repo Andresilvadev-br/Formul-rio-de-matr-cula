@@ -26,8 +26,9 @@ label + .radio-wrapper {
     }
     .radio-image{
         background-image: url(/assets/icons/radio-default.svg);
-        width: 1.5rem;
-        height: 1.5rem;
+        width: 1.3rem;
+        height: 1.3rem;
+        border-radius: 290px;
 
         position:absolute;
         top: .5rem;
@@ -50,4 +51,5 @@ label + .radio-wrapper {
         background-image: url(/assets/icons/radio-checked.svg);
         
     }
-} }
+} 
+}
